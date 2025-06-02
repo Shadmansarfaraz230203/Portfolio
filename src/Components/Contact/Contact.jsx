@@ -15,7 +15,7 @@ const Contact = () => {
           {/* Email Button */}
           <a
             href="mailto:shadmansarfaraz230203@gmail.com"
-            className="flex items-center justify-center gap-4 bg-[#465697] text-white px-6 py-3 hover:scale-105 rounded-lg shadow hover:bg-grey-700 transition"
+            className="flex items-center justify-center gap-3 rounded-full bg-light/10 px-6 py-2 border hover:scale-105  hover:bg-grey-700 transition "
           >
             <Mail className="w-5 h-5" />
             shadmansarfaraz230203@gmail.com
@@ -26,7 +26,7 @@ const Contact = () => {
             href="https://www.linkedin.com/in/shadman-sarfaraz-35063a214/"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center justify-center gap-4 bg-[#465697] text-white px-6 py-3 hover:scale-105 rounded-lg shadow hover:bg-grey-600 transition"
+            className="flex items-center justify-center gap-3 rounded-full bg-light/10 px-8 py-2 border hover:scale-105  hover:bg-grey-700 transition "
           >
             <Linkedin className="w-5 h-5" />
             LinkedIn

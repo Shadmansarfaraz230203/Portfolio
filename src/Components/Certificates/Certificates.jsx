@@ -15,7 +15,7 @@ const certificates = [
   },
   {
     title: "Academic Excellence",
-    description: "Awarded for academic excellence and contributions as a CSI Student Chapter member.",
+    description: "Awarded for academic excellence.",
     image: excellenceCert,
   },
 ];
