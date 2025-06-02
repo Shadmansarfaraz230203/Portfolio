@@ -22,7 +22,7 @@ const certificates = [
 
 const Certificates = () => {
   return (
-    <section id="Certificates" className="bg-[#171d32] py-16 px-6 md:px-12">
+    <section id="certificates" className="bg-[#171d32] py-16 px-6 md:px-12">
       <div className="max-w-6xl mx-auto text-center">
         <h2 className="text-3xl md:text-4xl font-bold text-white mb-10">Certificates</h2>
         <div className="grid gap-10 sm:grid-cols-2 md:grid-cols-3 ">

@@ -11,7 +11,7 @@ const educationData = [
 
 const Education = () => {
   return (
-    <section id="Education" className="bg-[#171d32] py-16 px-6 md:px-12">
+    <section id="education" className="bg-[#171d32] py-16 px-6 md:px-12">
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="text-3xl md:text-4xl font-bold text-white mb-10">Education</h2>
         <div className="space-y-8 text-left ">

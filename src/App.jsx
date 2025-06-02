@@ -11,6 +11,7 @@ import Contact from "./Components/Contact/Contact";
 function App() {
   return(
     <div className="bg-[#171d32] h-auto w-full overflow-hidden">1
+    
     <Navbar/>
     <Home/>
     <About/>

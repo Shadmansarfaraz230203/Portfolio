@@ -3,7 +3,7 @@ import photoJpg from "../../assets/photo.jpg";
 import TextChange from "../TextChange";
 const Home = () => {
   return (
-    <div id="Home" className="text-white flex w-full justify-between items-start p-10 md:p-20">
+    <div id="home" className="text-white flex w-full justify-between items-start p-10 md:p-20">
       <div className="md:w-2/4 md:pt-10">
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold ">
           <TextChange/>
