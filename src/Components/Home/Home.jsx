@@ -1,5 +1,6 @@
 import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
+import gitIcon from "../../assets/github-icon.jpg";
 
 import TextChange from "../TextChange";
 const Home = () => {
@@ -39,8 +40,8 @@ const Home = () => {
             className="p-3 bg-black rounded-full shadow hover:scale-110 transition border"
           >
             <img
-              
-             src="https://cdn.creazilla.com/icons/7915997/github-icon-size_256.png"
+              src={gitIcon}
+             //src="https://cdn.creazilla.com/icons/7915997/github-icon-size_256.png"
               alt="GitHub"
               className="h-12 w-12"
             />
