@@ -3,8 +3,8 @@ import photoJpg from "../../assets/photo.jpg"; // Replace with your actual image
 
 const About = () => {
   return (
-    <section id="about" className="bg-#171d32 py-16 px-6 md:px-12">
-    <h2 className="text-4xl md:text-5xl font-bold text-center mb-4 text-white">About Me</h2>
+    <section id="about" className="bg-#171d32 py-40 px-6 md:px-12">
+    <h2 className="text-4xl md:text-5xl font-bold text-center mb-8 text-white">About Me</h2>
       <div className="max-w-5xl mx-auto flex flex-col md:flex-row items-center gap-10">
       
         
