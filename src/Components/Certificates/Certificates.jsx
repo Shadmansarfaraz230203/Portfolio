@@ -2,6 +2,7 @@ import React from "react";
 import javaCert from "../../assets/TrainingCertificates.jpg";
 import jarvisCert from "../../assets/JarvisCertificate.jpg";
 import excellenceCert from "../../assets/AcademicExcellence.jpg";
+import Degree from "../../assets/Degree Certificate.jpeg";
 const certificates = [
   {
     title: "Java Full Stack Development",
@@ -17,6 +18,11 @@ const certificates = [
     title: "Academic Excellence",
     description: "Awarded for academic excellence.",
     image: excellenceCert,
+  },
+  {
+    title: "Degree Certificate",
+    description: "B.Tech Degree Certification",
+    image: Degree,
   },
 ];
 
